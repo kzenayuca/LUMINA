@@ -1,0 +1,6 @@
+com\ejemplo\database\ConexionMySQL.class
+main.class
+com\mycompany\lumina1\resources\JakartaEE10Resource.class
+com\mycompany\lumina1\JakartaRestConfiguration.class
+controller\HomeServlet.class
+controller\SimpleJDBC.class
